@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <title>Phone Book</title>
+</head>
+<body>
+<div class="header">
+    <div class="logo">
+        PhoneBook
+    </div>
+    <div class="menu">
+        <a href="#" id="add">Добавить</a>
+    </div>
+</div>
+
+<div class="content">
+    <div class="search">
+        <input type="text"  id="search" placeholder="Type your text here...">
+    </div>
+    <div class="data">
+    </div>
+    <div class="content-end"></div>
+</div>
+<!-- Modal -->
+<div id="modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">Добавить запись</h3>
+    </div>
+    <div class="modal-body">
+        <form class="form-horizontal" method="post" action="lib/add.php"
+              target="upload" enctype="multipart/form-data" id="form">
+            <div class="control-group">
+                <label class="control-label" for="name">Имя</label>
+                <div class="controls">
+                    <input type="text" name="name" id="name" maxlength="30">
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="description">Описание</label>
+                <div class="controls">
+                    <textarea name="description" id="description" maxlength="255"></textarea>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="photo">Фото</label>
+                <div class="controls">
+                    <input type="file" name="photo" id="photo">
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Отмена</button>
+        <button class="btn btn-primary" id="create">Создать</button>
+    </div>
+</div>
+<iframe id="upload" name="upload" style="display: none;"></iframe>
+</body>
+</html>

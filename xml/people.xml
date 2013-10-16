@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<items>
+		<item>
+			<photo>photos/01.jpg</photo>
+			<name>Юра Парамошин</name>
+			<description>Один прикольный парень из института.</description>				
+			<escapes>34</escapes>
+		</item>		
+		<item>
+			<photo>photos/02.jpg</photo>
+			<name>Юля Мингалиева</name>
+			<description>Необычная девушка из Сочи.</description>	
+			<escapes>5</escapes>
+		</item>	
+		<item>
+			<photo>photos/03.jpg</photo>
+			<name>Елена Силиванова</name>
+			<description>Подруга необычной девушки из Сочи.</description>	
+			<escapes>1</escapes>
+		</item>	
+		<item>
+			<photo>photos/04.jpg</photo>
+			<name>Дашка Улыбака</name>
+			<description>Секретная личность, ввиду чего больше и написать-то нечего.</description>	
+			<escapes>788</escapes>
+		</item>	
+		<item>
+			<photo>photos/05.jpg</photo>
+			<name>Вячеслав Пумба</name>
+			<description>Тоже личность секретная, так что в описании просто текст в духе lorem ipsum dolor.</description>
+			<escapes>34</escapes>
+		</item>	
+		<item>
+			<photo>photos/06.jpg</photo>
+			<name>Аня Пучкова</name>
+			<description>Крутая девочка, чувствует бит. Выскочила к середине танца на Maya Show Time.</description>
+			<escapes>58</escapes>
+		</item>	
+		<item>
+			<photo>photos/07.jpg</photo>
+			<name>Андрей Тарасов</name>
+			<description>Пловец, американец, крутой модный парень из Новороссийска.</description>	
+			<escapes>32</escapes>
+		</item>	
+		<item>
+			<photo>photos/08.jpg</photo>
+			<name>Соня Тверь</name>
+			<description>Честно говоря не уверен, возможно её звали Настя. Обещал перезвонить, к счастью, бессрочно.</description>	
+			<escapes>0</escapes>
+		</item>	
+		<item>
+			<photo>photos/09.jpg</photo>
+			<name>Нигер Модный</name>
+			<description>Любит мешать водку с пивом.</description>	
+			<escapes>14</escapes>
+		</item>	
+		<item>
+			<photo>photos/10.jpg</photo>
+			<name>Ваня Репетуев</name>
+			<description>Влюблен в своего соседа по комнате, безответно.</description>	
+			<escapes>32</escapes>
+		</item>	
+		<item>
+			<photo>photos/11.jpg</photo>
+			<name>Наталия Ренау</name>
+			<description>Какая-то девочка из Москвы, рандомно отобранная мышкой x7.</description>	
+			<escapes>5</escapes>
+		</item>	
+		<item>
+			<photo>photos/12.jpg</photo>
+			<name>Татьяна Лящевская</name>
+			<description>Вчера Таня приносила печеньки и чай, а сегодня принесла хаос и разрушение. Таня разносторонняя личность.</description>	
+			<escapes>34</escapes>
+		</item>	
+		<item>
+			<photo>photos/13.jpg</photo>
+			<name>Саша Белый</name>
+			<description>В заполнении поля description не нуждается.</description>	
+			<escapes>12</escapes>
+		</item>	
+		<item>
+			<photo>photos/14.jpg</photo>
+			<name>Катерина Булатова</name>
+			<description>Имеет привычку писать в контакте свое имя-отчество в транслите.</description>
+			<escapes>3</escapes>
+		</item>	
+		<item>
+			<photo>photos/15.jpg</photo>
+			<name>Иван Конюх</name>
+			<description>Смахивает на болгарского певца Азиса.</description>	
+			<escapes>12</escapes>
+		</item>	
+		<item>
+			<photo>photos/16.jpg</photo>
+			<name>Джо Биджо</name>
+			<description>Научил меня вводить whosyourdaddy в Warcraft 3, году в 2004-м, когда еще все Chemax-или.</description>	
+			<escapes>1</escapes>
+		</item>	
+		<item>
+			<photo>photos/17.jpg</photo>
+			<name>Дарья Асадова</name>
+			<description>Слушает Златый барар и Лепса, особенно любит композицию «Самый лучший день».</description>	
+			<escapes>4</escapes>
+		</item>	
+		<item>
+			<photo>photos/18.jpg</photo>
+			<name>Наталья Масютина</name>
+			<description>Первая отрицательная группа крови, любит заниматься английским языком.</description>	
+			<escapes>68</escapes>
+		</item>	
+		<item>
+			<photo>photos/19.jpg</photo>
+			<name>Лев Толмачев</name>
+			<description>Ярый походник, когда напьется грога отплясывает как чертов цискаридзе.</description>	
+			<escapes>1</escapes>
+		</item>	
+		<item>
+			<photo>photos/20.jpg</photo>
+			<name>Маша Подберезкина</name>
+			<description>Думает, что у нее депрессия.</description>	
+			<escapes>0</escapes>
+		</item>	
+		<item>
+			<photo>photos/21.jpg</photo>
+			<name>Виктория Сейнова</name>
+			<description>Одни люди, взрослые, воспитанные, самостоятельные. А другие — Вика</description>	
+			<escapes>47</escapes>
+		</item>	
+		<item>
+			<photo>photos/22.jpg</photo>
+			<name>Вика Гореликова</name>
+			<description>Проходит практику на Звенигородской Биостанции.</description>	
+			<escapes>3</escapes>
+		</item>	
+		<item>
+			<photo>photos/23.jpg</photo>
+			<name>Белладонна Петровна</name>
+			<description>Необычная дамочка.</description>	
+			<escapes>14</escapes>
+		</item>	
+		<item>
+			<photo>photos/24.jpg</photo>
+			<name>Соня Зимина</name>
+			<description>Спас её от бешеной бабки в троллейбусе, однако удачно для меня в итоге вышло.</description>
+			<escapes>3</escapes>
+		</item>	
+		<item>
+			<photo>photos/25.jpg</photo>
+			<name>Лешка Ржевский</name>
+			<description>Самый лучший врач.</description>	
+			<escapes>66</escapes>
+		</item>
+    <item><photo>photos/my.jpeg</photo><name>Денис Зайченко</name><description>Крутой web-разработчик</description><escapes>0</escapes></item><item><name>donbasstour</name><description/><escapes>0</escapes></item></items>
+</people>
